@@ -1,0 +1,18 @@
+<conf>
+<header>
+    <titre>
+    Le Voyage Algérien
+    </titre>
+    <chemin>
+    test.jpg
+    </chemin>
+</header>
+<nav>
+<nom>Kherfi</nom>
+<prenom>Wissam</prenom>
+<specialite>TI</specialite>
+<section>1</section>
+<groupe>02</groupe>
+<email>kherfiwissam1@gmail.com</email>
+</nav>
+</conf>

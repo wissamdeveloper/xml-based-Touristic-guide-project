@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recherche>
+    <continents>
+        <continent no="C1" nom="t"/>
+    </continents>
+    <continent nom="t">
+    <pays no="C1" nom="t">
+        <villes>
+            <ville nom="tyy">
+            <sites>
+                <site nom="t" photo="site"/>
+            </sites>
+            </ville>
+        </villes>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom="jl"/>
+    </continents>
+    <continent nom="jl">
+    <pays no="C1" nom="jkl">
+    <villes><ville nom="kl">
+    <sites>
+    <site nom="ljk" photo="site"/>
+    </sites>
+    </ville>
+    </villes>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom="test"/>
+    </continents>
+    <continent nom="test">
+    <pays no="C1" nom="test">
+    <villes/>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom=""/>
+    </continents>
+    <continent nom="">
+    <pays no="C1" nom="">
+    <villes><ville nom="">
+    <sites>
+    <site nom="" photo="site"/>
+    </sites>
+    </ville>
+    </villes>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom=""/>
+    </continents>
+    <continent nom="">
+    <pays no="C1" nom="">
+    <villes>
+    <ville nom="">
+    <sites>
+    <site nom="" photo="site"/>
+    </sites>
+    </ville>
+    </villes>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom=""/>
+    </continents><continent nom="">
+    <pays no="C1" nom="">
+    <villes>
+    <ville nom="">
+    <sites>
+    <site nom="" photo="site"/>
+    </sites>
+    </ville>
+    </villes>
+    </pays>
+    </continent>
+    <continents>
+    <continent no="C1" nom=""/>
+    </continents><continent nom="">
+    <pays no="C1" nom="">
+    <villes><ville nom="">
+    <sites><site nom="" photo="site"/></sites></ville></villes></pays></continent><continents><continent no="C1" nom=""/></continents><continent nom=""><pays no="C1" nom=""><villes><ville nom=""><sites><site nom="" photo="site"/></sites></ville></villes></pays></continent><continents><continent no="C1" nom="test"/></continents><continent nom="test"><pays no="C1" nom="test"><villes/></pays></continent><continents><continent no="C1" nom="test"/></continents><continent nom="test"><pays no="C1" nom="test"><villes/></pays></continent><continents><continent no="C1" nom=""/></continents><continent nom=""><pays no="C1" nom=""><villes><ville nom=""><sites><site nom="" photo="site"/></sites></ville></villes></pays></continent><continents><continent no="C1" nom="test"/></continents><continent nom="test"><pays no="C1" nom="test"><villes/></pays></continent><continents><continent no="C1" nom="wissam"/></continents><continent nom="wissam"><pays no="C1" nom="wissam"><villes/></pays></continent><continents><continent no="C1" nom=""/></continents><continent nom=""><pays no="C1" nom=""><villes><ville nom=""><sites><site nom="" photo="site"/></sites></ville></villes></pays></continent><continents><continent no="C1" nom="test"/></continents><continent nom="test"><pays no="C1" nom="test"><villes/></pays></continent><continents><continent no="C1" nom="test"/></continents><continent nom="test"><pays no="C1" nom="test"><villes><ville nom="test"><sites><site nom="test" photo="site"/></sites></ville></villes></pays></continent>
+<continents><continent no="C1" nom="test"/></continents>
+<continent nom="test"><pays no="C1" nom="test"><villes><ville nom="test"><sites><site nom="test" photo="site"/></sites></ville></villes></pays></continent><continents><continent no="C1" nom="hgjkh"/></continents><continent nom="hgjkh"><pays no="C1" nom="uyhkj"><villes><ville nom=":;:;,"><sites><site nom="kjlk" photo="site"/></sites></ville></villes></pays></continent></recherche>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ville nom="test1">
+  <aeroports>
+    <aeroport/>
+  </aeroports>
+  <gares>
+    <gare/>
+  </gares>
+  <restaurants>
+    <restaurant/>
+  </restaurants>
+  <hotels>
+    <hotel/>
+  </hotels>
+  <sitees>
+    <sitee/>
+  </sitees>
+  <Descriptif>test</Descriptif>
+</ville>

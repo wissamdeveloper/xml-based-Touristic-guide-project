@@ -1,0 +1,11 @@
+<!ELEMENT config (header,nav)>
+<!ELEMENT header (titre,chemin)>
+<!ELEMENT nav (nom,prenom,specialite,section,groupe,email)>
+<!ELEMENT chemin (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT specialite (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT groupe (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

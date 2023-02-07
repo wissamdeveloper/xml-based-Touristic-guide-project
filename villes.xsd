@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="recherche">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="1" name="continents">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="continent" minOccurs="1" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:attribute name="id" type="xs:string"></xs:attribute>
+                                    <xs:attribute name="nom" type="xs:string"></xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element maxOccurs="unbounded" name="pays">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="villes" maxOccurs="1">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="ville">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="sites" maxOccurs="1">
+                                                        <xs:complexType>
+                                                            <xs:sequence>
+                                                                <xs:element name="site"
+                                                                    maxOccurs="unbounded">
+                                                                    <xs:complexType>
+                                                                        <xs:attribute name="photo"
+                                                                            type="xs:string"></xs:attribute>
+                                                                        <xs:attribute name="nom"
+                                                                            type="xs:string"></xs:attribute>
+                                                                    </xs:complexType>
+                                                                </xs:element>
+                                                            </xs:sequence>
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                                <xs:attribute name="nom" type="xs:string"></xs:attribute>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="nom" type="xs:string"></xs:attribute>
+                        <xs:attribute name="id" type="xs:string"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
